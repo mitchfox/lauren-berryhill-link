@@ -175,7 +175,7 @@ export default function Home() {
     {
       title: 'WithMe Coaching',
       description: 'Certified Personal Trainer, Nutrition & Weightloss Coac',
-      href: 'https://withme.so/become-a-creator?id=50&code=a04e94279e34aa57a5b37a2d0715fe0112660fefef08d188a19eed2c3df52e8d',
+      href: 'https://withme.so/ketocoachlauren',
       image: WithMeLogo,
       icon: null,
     },
