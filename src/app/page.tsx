@@ -148,12 +148,6 @@ export default function Home() {
       icon: SiGoogleclassroom
     },
     {
-      title: 'Macro Tracking 101 Course',
-      href: 'https://keto-coach-lauren-f212.mykajabi.com/offers/joqcTQF9/checkout?coupon_code=MACROS101',
-      image: Macro.src,
-      icon: SiGoogleclassroom
-    },
-    {
       title: 'Subscribe To My Email List',
       href: 'https://keto-coach-lauren-f212.mykajabi.com/subscribe-to-keto-coach-lauren',
       image: null,
@@ -173,7 +167,7 @@ export default function Home() {
     },
     {
       title: 'Amazon Store Front',
-      href: 'https://www.amazon.com/shop/keto_coach_lauren?ref_=cm_sw_r_cp_ud_aipsfshop_8068M5FZ3EKQJTKEW9VF',
+      href: 'https://www.amazon.com/shop/keto_coach_lauren?ref_=cm_sw_r_cp_ud_aipsfshop_NT4AJG2TH23K5R73PXFR',
       image: Amazon.src,
       icon: AmazonIcon,
     },
