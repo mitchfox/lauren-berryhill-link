@@ -93,7 +93,7 @@ function LinkBox({
           </div>
         )}
         <div className="text-left">
-          <h2 
+          <h2
             className="pr-6 text-sm font-bold text-[#222222]"
             style={{
               textTransform: 'uppercase',
@@ -135,6 +135,11 @@ export default function Home() {
   ]
 
   const linksData = [
+    {
+      title: 'Join me on WithMe',
+      href: 'https://withme.so/Ketocoachlauren',
+      image: 'https://openaccessimages.s3.eu-west-2.amazonaws.com/storefront-images/social-imgs/withmelogo.png',
+    },
     {
       title: 'Personal Website',
       href: 'https://www.ketocoachlauren.com/',
@@ -196,14 +201,9 @@ export default function Home() {
             </div>
 
             <div className="relative z-30">
-{/*     
+                <span></span>
 
-              <img
-                src={LogoTransparent.src}
-                alt="Keto Coach Lauren Logo"
-                className="mx-auto -mt-16 mb-4 h-24 sm:mt-6"
-              /> */}
-                        <h1
+              <h1
                 className={`${racingSansOne.className} -mt-16 mb-4 text-4xl leading-none text-[#222222] sm:mt-6 sm:text-5xl`}
               >
                 Keto Coach Lauren
